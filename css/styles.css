@@ -47,8 +47,12 @@ body {
   color: #212121;
 }
 
-.page:hover:hover,
-.page:focus {
+.nav-list-link:hover,
+.nav-list-link:focus {
+  color: #2196f3;
+}
+
+.page {
   color: #2196f3;
 }
 
